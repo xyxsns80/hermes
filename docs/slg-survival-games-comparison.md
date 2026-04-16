@@ -1,6 +1,6 @@
 # 海外生存SLG四款代表作对比分析
 
-> 更新日期：2026-04-16
+> 更新日期：2026-04-16（第二轮更新：补充智谱搜索营收数据、社区评价、行业分析）
 > 对比游戏：Tiles Survive! / Kingshot / Whiteout Survival（无尽冬日）/ Ice War: Three Kingdoms（三国冰河时代）
 
 ---
@@ -200,12 +200,79 @@
 
 ---
 
-## 五、搜索方法说明
+## 五、第二轮深度搜索：营收数据与行业洞察（智谱MCP搜索补充）
+
+> 数据来源：ZhipuAI web_search_prime（通过手动 MCP Streamable HTTP 调用）
+
+### 5.1 营收数据（关键发现）
+
+| 游戏 | 累计营收 | 月流水 | 备注 |
+|------|---------|--------|------|
+| Whiteout Survival | **30亿美元+**（截至2025年中） | **7000万美元+/月** | 全球最赚钱手游之一，2024年8月登顶全球畅销榜 |
+| Kingshot | **10亿美元**（消费总额，含税+渠道） | **5000万美元+/月**（峰值） | 上线11个月净收入超5亿美元，速度惊人 |
+| Tiles Survive! | 暂无公开数据 | 暂无公开数据 | 2025年7月上线，尚在成长期 |
+| Ice War: Three Kingdoms | 暂无公开数据 | 暂无公开数据 | 2025年7月上线 |
+
+**核心发现：Century Games 是这个赛道的绝对赢家**
+- Whiteout Survival + Kingshot 两款产品合计营收超过40亿美元
+- Kingshot 上线不到一年就突破了10亿美元消费额（Net Revenue约6亿美元）
+- Whiteout Survival 在 Kingshot 上线后并未下滑，仍保持7000万美元/月
+
+### 5.2 社区评价与争议
+
+#### Kingshot
+- Reddit 用户称其"3个月赚了3500万美元"，Metacritic 评分偏低
+- 争议：广告素材展示塔防玩法，但实际游戏核心是SLG——被社区批评"虚假宣传"
+- 有评论直接说"Better than Whiteout Survival"，也有"Less than zero stars"的极端差评
+- 被玩家视为 Whiteout Survival 的"姊妹产品"或"竞品"
+
+#### Tiles Survive!
+- YouTube 分析视频标题："FunPlus goes full Century Games"——直接指出 FunPlus 在模仿 Century Games 的"暗黑战争"playbook
+- Packsify 分析认为游戏对零氪不友好，联盟协调需要"$1000+/月"级别的消费
+- 被归类为"zombie post-apocalyptic survival"，而非冰雪末日题材
+
+#### Whiteout Survival
+- Reddit 帖子："$2 Billion USD sales in 1 year! Dangerous game to play"
+- ThinkingData 案例研究：利用实时数据分析达到30亿美元营收
+- 社区评价两极分化：有人认为是"best strategy game"，也有人认为是"pay-to-win"
+
+#### 三国冰河时代（Ice War: Three Kingdoms）
+- 雪球用户直言"纯抄无尽冬日"、"换个三国皮就上了"
+- B站有测评视频标题："三国冰河时代开喷，测评看看是不是垃圾游戏"
+- 但也有分析指出其差异化："通过降低养成策略，加强社交策略的方式还原了三国原本的谋略感"
+- 知乎评价：游戏的主要可玩性在于"引导同盟玩家必须建一个及时聊天群"
+
+### 5.3 行业洞察
+
+1. **"Century Games 模式"已成行业模板**：FunPlus 的 Tiles Survive 被直接评价为"FunPlus goes full Century Games"，说明 Century Games 的生存SLG公式（Whiteout Survival 确立的）已成为品类标准
+2. **产品矩阵策略**：Century Games 同时运营 Whiteout Survival 和 Kingshot，两款互不蚕食，合计营收超40亿美元。关键在于差异化定位（冰雪末日 vs 中世纪）
+3. **"换皮"争议持续**：三国冰河时代被大量玩家指责为"无尽冬日换皮"，但仍有一定市场——说明即使换皮，只要题材+运营到位仍有生存空间
+4. **广告素材vs实际游戏的差距**是行业普遍问题（Kingshot被多次点名）
+5. **联盟社交是核心留存机制**：知乎对三国冰河时代的分析指出，游戏的核心可玩性不在玩法本身，而在于同盟社群的社交绑定
+
+---
+
+## 六、策划启示（更新版）
+
+1. **"X+SLG"公式**：Whiteout Survival 证明了"差异化题材+成熟SLG框架"可以出爆款，后续产品都在套用这个公式
+2. **微创新方向**：在SLG框架基本固定的前提下，差异化只能在题材（三国/中世纪/末日）和1-2个核心系统（地块探索/塔防/士气）上做
+3. **同厂竞争**：Century Games 同时运营 Whiteout Survival 和 Kingshot，说明厂商自己也认为单一产品无法覆盖所有用户，需要多产品矩阵
+4. **IP借力**：Ice War: Three Kingdoms 用三国IP降低了获客成本，但可能也限制了全球化的天花板
+5. **休闲化趋势**：四款产品都在融入放置/自动/小游戏元素，说明SLG品类正在向"更轻"的方向演化以扩大用户基数
+6. **【新增】营收天花板惊人**：Whiteout Survival 的30亿美元+ lifetime revenue 证明了"生存+SLG"品类的巨大商业潜力
+7. **【新增】速度即壁垒**：Kingshot 11个月净收5亿——先发者积累的运营经验和用户基础构成巨大竞争壁垒，后来者（如 Tiles Survive）面临更大挑战
+8. **【新增】社交>玩法**：多款游戏的社区反馈表明，SLG的真正留存驱动力是联盟社交，而非核心玩法本身。策划时应优先考虑社交机制设计
+9. **【新增】广告素材策略**：Kingshot 用塔防素材吸引下载但实际是SLG——这种"买量欺骗"虽然短期有效但损害品牌长期价值
+
+---
+
+## 七、搜索方法说明
 
 本文档数据来源：
-- iTunes Search API（最可靠的结构化数据源）
-- iTunes Lookup API（通过 Bundle ID 获取详细应用信息）
-- 9game.cn（无尽冬日、三国冰河时代的中文描述）
+- **iTunes Search/Lookup API** — 最可靠的结构化数据源（第一轮）
+- **ZhipuAI MCP web_search_prime** — 通过手动 Streamable HTTP 调用获取的网页搜索结果（第二轮）
+- **9game.cn** — 无尽冬日、三国冰河时代的中文描述
 - 其他搜索引擎（Google/Baidu/Bing/DuckDuckGo）在本环境下均不可用
 
-详见同目录下搜索方法总结文档。
+技能文档：research/zhipu-mcp-search（手动调用智谱MCP搜索的方法）
+技能文档：research/mobile-game-research（iTunes API + 9game 研究方法）
